@@ -1,0 +1,7 @@
+Dépose ici tes fichiers mp3 pour la musique de fond du jeu.
+
+Noms attendus :
+  titre.mp3     joué sur l'écran titre et le menu entre les niveaux
+  niveau1.mp3 ... niveau8.mp3   un morceau par niveau (vague + boss)
+
+Un fichier manquant ne bloque rien : le jeu reste silencieux pour ce niveau.
