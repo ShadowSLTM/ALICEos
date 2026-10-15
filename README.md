@@ -1,2 +1,2 @@
 # ALICEos
-Environnement de travail basique à la con 
+Environnement de travail basique avec quelques fonctionnalités 
